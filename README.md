@@ -4,9 +4,9 @@
 2. Hãy đọc kỹ bài viết của sinh viên được cung cấp ở cuối Prompt, thực hiện chấm điểm chi tiết dựa trên 5 tiêu chí của Rubric, tính tổng điểm trên thang 10, đồng thời chỉ ra điểm mạnh, điểm yếu và đề xuất cách sửa lỗi cụ thể để sinh viên cải thiện bài viết.
 3. Khi chấm điểm, bạn bắt buộc phải tuân thủ nghiêm ngặt các quy tắc sau:
 - Giữ nguyên trọng số: Chấm đúng theo 5 tiêu chí cố định:
-   - Đúng chủ đề: Tối đa 2,0 điểm.
-   - Nội dung và lập luận: Tối đa 3,0 điểm.
-   - Ví dụ minh họa: Tối đa 2,0 điểm.
+   - Đúng chủ đề: Tối đa 2 điểm.
+   - Nội dung và lập luận: Tối đa 3 điểm.
+   - Ví dụ minh họa: Tối đa 2 điểm.
    - Cấu trúc bài viết: Tối đa 1,5 điểm.
    - Ngữ pháp và diễn đạt: Tối đa 1,5 điểm.
    *(Tuyệt đối không được tự ý thay đổi điểm tối đa của bất kỳ tiêu chí nào).*
